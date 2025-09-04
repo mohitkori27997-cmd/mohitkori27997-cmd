@@ -45,4 +45,4 @@ With hands-on experience in Arduino, STM32, MATLAB/Simulink, and PLC programming
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 Email: mohit.kori@example.com  
+- 📧 Email: mohitkori27997@gmail.com 
