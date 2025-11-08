@@ -4,12 +4,12 @@
 🔹 **Operations Supervisor at Amazon | Aspiring Automation & Embedded Systems Engineer**  
 
 I’m passionate about **embedded systems, automation engineering, and power electronics**.  
-With hands-on experience in Arduino, STM32, MATLAB/Simulink, and PLC programming, I enjoy building real-world solutions that combine **hardware and software**.  
+With hands-on experience in FPGA/VLSI, Arduino, STM32, MATLAB/Simulink, and PLC programming, I enjoy building real-world solutions that combine **hardware and software**.  
 
 ---
 
 ## 🌱 What I’m Currently Doing
-- 🚀 Learning **Embedded Systems Development** & **PLC Automation**  
+- 🚀 Learning **Embedded Systems Development** & **Chip based VLSI design**  
 - 💡 Exploring projects in **IoT, Robotics, and Industrial Automation**  
 - 🎯 Preparing for roles that blend **Electronics, Control Systems & Operations**  
 
